@@ -6,10 +6,10 @@
     "default_popup": "index.html"
   },
   "icons": {
-    "16": "icons/agreement-16.png",
-    "32": "icons/agreement-32.png",
-    "48": "icons/agreement-48.png",
-    "128": "icons/agreement-128.png"
+    "16": "shuffle-icons/shuffle16.png",
+    "32": "shuffle-icons/shuffle32.png",
+    "48": "shuffle-icons/shuffle48.png",
+    "128": "shuffle-icons/shuffle128.png"
   },
   "permissions": [
     "storage",
@@ -18,7 +18,5 @@
     "tabs",
     "declarativeContent"
   ],
-  "host_permissions": [
-    "<all_urls>"
-  ]
+  "host_permissions": ["<all_urls>"]
 }
