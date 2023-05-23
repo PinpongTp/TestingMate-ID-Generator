@@ -6,10 +6,10 @@
     "default_popup": "index.html"
   },
   "icons": {
-    "16": "shuffle-icons/shuffle16.png",
-    "32": "shuffle-icons/shuffle32.png",
-    "48": "shuffle-icons/shuffle48.png",
-    "128": "shuffle-icons/shuffle128.png"
+    "16": "icon/testingMate-icon-16.png",
+    "32": "icon/testingMate-icon-32.png",
+    "48": "icon/testingMate-icon-48.png",
+    "128": "icon/testingMate-icon-128.png"
   },
   "permissions": [
     "storage",
