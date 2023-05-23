@@ -10,7 +10,7 @@ export const Footer = (props: any) => {
           );
         })
       ) : (
-        <p className="copyright">v0.0.1 Copyright © 2022 Pinpong.co</p>
+        <p className="copyright">V0.1.0 Copyright © 2023 Pinpong.co</p>
       )}
     </div>
   );

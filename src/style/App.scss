@@ -1,5 +1,5 @@
-@import "./variable.scss";
-@import "./font.scss";
+@import './variable.scss';
+@import './font.scss';
 
 * {
   margin: 0;
@@ -75,7 +75,7 @@ a {
   position: relative;
 }
 .copy.copied::before {
-  content: "copied";
+  content: 'copied';
   display: block;
   background-color: black;
   color: #fff;
@@ -121,9 +121,8 @@ a {
   font-size: 10px;
 }
 
-
 // setting
 
 #setting {
-  padding: 4px;
+  //padding: 4px;
 }
